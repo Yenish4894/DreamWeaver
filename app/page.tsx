@@ -120,7 +120,7 @@ export default function Home() {
 
         {/* Footer */}
         <div className="absolute bottom-6 left-6 right-6 flex justify-between items-center text-xs text-purple-400/40 z-10">
-          <div>Dreamware - by Team DreamCoder</div>
+          <div>DreamWeaver - by Team DreamCoder</div>
           <div>Every reload feels like waking from a new dream</div>
         </div>
       </div>
